@@ -1,0 +1,7 @@
+Version: 1.0
+Date: 20240303
+Changelog: Creation
+
+Version: 2.0
+Date: 20240912
+Changelog: Renamed files from "C_Drive_Users_FolderSize" to make it sound less complicated, Added Changelog, Re-did bat file, Updated file naming.
